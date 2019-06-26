@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
     s.homepage     = "https://github.com/cmsund/"
 
     # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-    s.license      = { :type => "Commercial", :file => "LICENSE.txt" }
+    # s.license      = { :type => "Comercial", :file => "License.txt" }
     
     # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
     s.authors            = { "Christina Sund" => "christina.m.sund@gmail.com" }
