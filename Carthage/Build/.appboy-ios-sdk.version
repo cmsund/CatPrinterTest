@@ -1,0 +1,22 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "3.15.0",
+  "iOS" : [
+    {
+      "name" : "SDWebImage",
+      "hash" : "122b4a0c3c90f09800afaadac015449f4f7186749ba51d5e61cb7da5c95915c8"
+    },
+    {
+      "name" : "Appboy_iOS_SDK",
+      "hash" : "59baa2c70b8a8d89a2c49474143087afc0cd9fea82322d54cd53ccbd971a58f5"
+    }
+  ]
+}

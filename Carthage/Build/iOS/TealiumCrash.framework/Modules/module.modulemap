@@ -1,0 +1,4 @@
+framework module TealiumCrash {
+  header "TealiumCrash-Swift.h"
+  requires objc
+}

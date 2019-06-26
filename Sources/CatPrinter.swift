@@ -8,9 +8,9 @@
 
 import Foundation
 
-public struct CatPrinter {
-    public init() {}
-    public func meow()
+struct CatPrinter {
+    init() {}
+    func meow()
     {
         print("🐱MEOW!")
     }

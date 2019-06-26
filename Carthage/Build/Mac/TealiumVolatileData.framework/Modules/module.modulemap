@@ -1,0 +1,4 @@
+framework module TealiumVolatileData {
+  header "TealiumVolatileData-Swift.h"
+  requires objc
+}

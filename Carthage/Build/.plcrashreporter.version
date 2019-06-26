@@ -1,0 +1,21 @@
+{
+  "Mac" : [
+    {
+      "name" : "CrashReporter",
+      "hash" : "df053fd16d79ed61a66b83a93b8f928d488f4e6eeb5b6002d2eb67b90fd3666d"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "1.3.4",
+  "iOS" : [
+    {
+      "name" : "TealiumCrashReporteriOS",
+      "hash" : "fd99bf28415a2ea0cb98893c5f36db92de0408dccc91a979bc7bb04635a6ece0"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+framework module TealiumDataSource {
+  header "TealiumDataSource-Swift.h"
+  requires objc
+}

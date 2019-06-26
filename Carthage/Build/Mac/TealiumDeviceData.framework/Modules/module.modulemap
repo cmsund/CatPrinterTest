@@ -1,0 +1,4 @@
+framework module TealiumDeviceData {
+  header "TealiumDeviceData-Swift.h"
+  requires objc
+}

@@ -1,0 +1,4 @@
+framework module TealiumLogger {
+  header "TealiumLogger-Swift.h"
+  requires objc
+}

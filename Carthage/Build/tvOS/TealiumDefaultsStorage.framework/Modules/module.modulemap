@@ -1,0 +1,4 @@
+framework module TealiumDefaultsStorage {
+  header "TealiumDefaultsStorage-Swift.h"
+  requires objc
+}

@@ -1,0 +1,4 @@
+framework module TealiumConsentManager {
+  header "TealiumConsentManager-Swift.h"
+  requires objc
+}

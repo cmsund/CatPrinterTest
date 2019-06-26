@@ -1,0 +1,4 @@
+framework module TealiumConnectivity {
+  header "TealiumConnectivity-Swift.h"
+  requires objc
+}

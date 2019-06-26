@@ -1,0 +1,4 @@
+framework module TealiumDispatchQueue {
+  header "TealiumDispatchQueue-Swift.h"
+  requires objc
+}

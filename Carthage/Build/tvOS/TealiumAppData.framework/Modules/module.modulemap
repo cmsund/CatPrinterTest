@@ -1,0 +1,4 @@
+framework module TealiumAppData {
+  header "TealiumAppData-Swift.h"
+  requires objc
+}

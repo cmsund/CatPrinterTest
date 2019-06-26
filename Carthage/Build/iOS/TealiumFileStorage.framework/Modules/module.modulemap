@@ -1,0 +1,4 @@
+framework module TealiumFileStorage {
+  header "TealiumFileStorage-Swift.h"
+  requires objc
+}

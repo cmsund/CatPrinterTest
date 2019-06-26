@@ -1,0 +1,316 @@
+{
+  "Mac" : [
+    {
+      "name" : "TealiumCollect",
+      "hash" : "4d32769816640b8d4b58eb4f841a90324f5991e627f192246139834525d9c377",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumCore",
+      "hash" : "3c94e05492789a74cab008280c5ee26bde39855114de25b1a702a87926b6367a",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumAppData",
+      "hash" : "9d7b159b5f78b14b47435dc6ab2a5c0e63e03506e0c6abdd2cb3f024c92a01af",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumConsentManager",
+      "hash" : "0ce6ab8c4b7e86a04099c4aed50cbaa88a5a26de9450cc5d04b628875ac53d11",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumDataSource",
+      "hash" : "43141c4d4c7fface3eb5c508384bd6898ccfc45e609989edc7d3842232cedef3",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumLogger",
+      "hash" : "0d1e1fb575dc1656ec32014115685b57a63ec5e2264b11b100dde9ae0c08dad8",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumDelegate",
+      "hash" : "b3158d724977fbb9095cbe6f6457285f983a8af9cc9f24405af0ad890a2cb7a5",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumConnectivity",
+      "hash" : "912e8cf074b6905e75149e8e9a001183a9ff63e21c315afb636d2c77f5f4371c",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumDefaultsStorage",
+      "hash" : "5b4525ee1136bd81e162913e6ab1513b10bea68e1ec813000c466d765997208a",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumDeviceData",
+      "hash" : "f66dbb4dd39f75d2a949fb69366443bc295b6595dd2951e1e759c99809837c87",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumDispatchQueue",
+      "hash" : "34929329cc3afdce09df6184dc8da6ca2b80a79956b4093795b719aebf0bc5a0",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumFileStorage",
+      "hash" : "7ff955d8e05d0a59de8a20f72e03867a641282e9b8220e20dd8ecefd57620d48",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumLifecycle",
+      "hash" : "52cf413b445b9d2ee16d5f4506d460db7dc2d1e4b215c6f7c8f72195b086b69e",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumVolatileData",
+      "hash" : "de39858066d06c47d96ad48c897e37aeddb2454860bc7179acb35b96f785f141",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ],
+  "watchOS" : [
+    {
+      "name" : "TealiumAppData",
+      "hash" : "5d81fe29985531c275a0e0b252f698306d656736c6bb9be98f3c7b832fb2c2af",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumCollect",
+      "hash" : "0f97e81e67123c6827c03de72de4e876359bb36f123e14ea15b2ccdaac25b996",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumConsentManager",
+      "hash" : "c1ca9f1b4526cbdcb39851b52e2dd182f65edda1c0bf05b2602026062da3c85f",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumDelegate",
+      "hash" : "82a5502fcb1967cac957d5a24f3163fb7fb4f75765d0f503feff6f762ca435c4",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumDefaultsStorage",
+      "hash" : "a7fed5dea978e81fc51b4fcc61e23d4c23148c2f3e15efac5a63a45285938668",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumCore",
+      "hash" : "ca74301fd92af396f4f97a812b451ca2ccb652b63c4d6e38b127bc8666846b53",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumDataSource",
+      "hash" : "934feeeb00f38836fa54e657e7a47b10f9658c384f0cdbc9ccad965edce0f558",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumLifecycle",
+      "hash" : "029fe6ad3cc81e2da3e30d04aa1dee182fc1fcad333c21cc0f9623ad9162abcd",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumFileStorage",
+      "hash" : "fec84675a49791afd03cbf02d92bfae4b42cf5d27816f3551ab005e752e78daf",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumDeviceData",
+      "hash" : "e44a63d93aba1652ac1120176bf46e27bc8ac4c9b417335186abe177007c2e2b",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumLogger",
+      "hash" : "966d04c097c115cb822e97e0c78ec0da8ec7dc6bfa87b76ef9d68ad26afa9306",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumDispatchQueue",
+      "hash" : "9c227b982b755060d79d5ccd6534d816335779f69528884d3261f6b5d2ecc9b8",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumVolatileData",
+      "hash" : "13e4c6d88166727c907ad1116bff215a2472f5ea24749cf252ac6963a57a4068",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ],
+  "tvOS" : [
+    {
+      "name" : "TealiumAutotracking",
+      "hash" : "d7b8767cd950170177dfaa7f36cf0c5fac9a682af078ffc1dcbf1e65cc150980",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumAppData",
+      "hash" : "b6f5642d616266d7ba179d33806b77d23a7d374d464911ce87c23aa323d8243b",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumCore",
+      "hash" : "f969b987f4a47e6891c3de404ddaf86a2c7c7ebea76ea0d78b516ee32828af66",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumCollect",
+      "hash" : "18f229cfa77b9b841b0e45e5328c17d9fba5936c474e2694e8ae270d53274fe7",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumConsentManager",
+      "hash" : "2e04d589318bd73284e11c992b90f25859fdd907c2c25db827644cbb62e4fe64",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumDelegate",
+      "hash" : "bf6c6ed44b500daa9240f9683d46deeaf220e3ccc99010b00c308b72f782ff87",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumDataSource",
+      "hash" : "0b97c9513e77206045cd2ad66e2d8a5d5f016ef223a52b41da0f6faf99e57e6d",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumDefaultsStorage",
+      "hash" : "80c36437c2d6cc6f1bd4705c0b5a3ab40896b1f69dff1cedb63cf3b1b91bbd0f",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumConnectivity",
+      "hash" : "a1f1d895bf5116f4fbc761a88fabfc74636d7ea72964387c554a257c458d67ac",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumLogger",
+      "hash" : "89b801722d50ac683603c32928baacaf420289a67110f33fdbe21a909ee7acd0",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumDispatchQueue",
+      "hash" : "486ab0d7316813eb9d0b6422eb60e1130ea2a7d89dba09bf9ce4917cbcac2e9a",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumDeviceData",
+      "hash" : "bc4d01ced6363ba340a45c46e1d7e541717c698b1b6c94ee1965eb71b24ca366",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumFileStorage",
+      "hash" : "38cc820da19811cf2e352473dba114fff451d1d5acb35781af7dbce290bc8186",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumLifecycle",
+      "hash" : "e667687ed0d68ef8a41d7394af1b44fcd76d542b60f32e5490b98422db5e31f2",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumVolatileData",
+      "hash" : "aa8900bfe9f99938aec24c5a376657c80c7317c61b4e5de448cbb10af3f464d9",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ],
+  "commitish" : "1.7.0",
+  "iOS" : [
+    {
+      "name" : "TealiumAppData",
+      "hash" : "16bf2f4e0ad5c9485d17807b5cc68ab5368c920990664ab2235305f46f399e6f",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumCollect",
+      "hash" : "e361c101f825619e49836b1d484e81519d3d54f0e3ce0abca4055c1fb5f3f865",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumAutotracking",
+      "hash" : "0ef797bc15e51a81df45f5fbdd73005dd25072101ab76adbc76ca0d4344e5f59",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumAttribution",
+      "hash" : "ed620d709f06a431acd8363e3407321f2f1d48c71e4f73d642bbdbf19a18b327",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumDelegate",
+      "hash" : "5880b1594e3327433bf773c84430ee37757e3fcd3e2107eb46064ba0ce9caf16",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumDataSource",
+      "hash" : "30a86928994b31c9fb818e491dbadc2c780be40b0b346bba6976c96ba4514f9b",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumConnectivity",
+      "hash" : "382822022d5af7b446109f7e6d3c0b4825ae11827c2183943fbc61974ef11b9b",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumDefaultsStorage",
+      "hash" : "6357b564e40d9308311d67a9b000211cf815ad4ac6d9838ff4e580dc05ec2d96",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumCrash",
+      "hash" : "7123552ba91d110eed5ce6c9f9fdf5a846bb5364dd6cd6fa29dc84dc9b3a2f62",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumCore",
+      "hash" : "8683636669f8ffc979751e70a2a252810145681a1581ca18c0755ee900b2fc03",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumFileStorage",
+      "hash" : "39d1ceef2f7f67e96efe4b68fe00edc69177d1f4866ee167c6d35f2ea895dd0c",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumConsentManager",
+      "hash" : "379664cc2800c8c985c4aef8a970e30cf6b8b2c7868fc18aa43633d3fe502650",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumLogger",
+      "hash" : "b7d780ca31f81bd21a21475b9c96664677a720c42965ed680793dede92b659ce",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumDeviceData",
+      "hash" : "727ca8012530bdd0d3cbcbf17603c1e6b8442b0b934516801e92227e5b5a0fc8",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumDispatchQueue",
+      "hash" : "af591779c017fc10fa47817742225ff23227f725f84824822d544ad5fce10e79",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumVolatileData",
+      "hash" : "05f55c57f209215988a9e3408b5c88c5fb77bfb1f62f367a141c83ee81bd807f",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumLifecycle",
+      "hash" : "338216ec06bb710e7d8ca0f0116de34a9726895b3c6d9f8e9e5dfe179a62c440",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumRemoteCommands",
+      "hash" : "b5bf0e542c8441eeff356b487fd1e22b2ec2cf6ac61015984af90cc87624b267",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TealiumTagManagement",
+      "hash" : "c6f0b74792a05366293e69402d121c2db26382e34a1c8a28732aac55341b5088",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ]
+}
