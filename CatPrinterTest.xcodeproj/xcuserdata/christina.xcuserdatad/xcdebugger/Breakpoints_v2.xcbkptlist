@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CatPrinterTestExample/ViewController.swift"
+            timestampString = "583264824.0470541"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CatPrinterTestExample/ViewController.swift"
+            timestampString = "583264824.047552"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatPrinterTestExample.ViewController.printer.getter : CatPrinterTestExample.CatPrinter"
+                  moduleName = "CatPrinterTestExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christina/Desktop/my-repos/github/CatPrinterTest/CatPrinterTestExample/ViewController.swift"
+                  timestampString = "583264824.235495"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatPrinterTestExample.ViewController.printer.setter : CatPrinterTestExample.CatPrinter"
+                  moduleName = "CatPrinterTestExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christina/Desktop/my-repos/github/CatPrinterTest/CatPrinterTestExample/ViewController.swift"
+                  timestampString = "583264824.237587"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatPrinterTestExample.ViewController.printer.modify : CatPrinterTestExample.CatPrinter"
+                  moduleName = "CatPrinterTestExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christina/Desktop/my-repos/github/CatPrinterTest/CatPrinterTestExample/ViewController.swift"
+                  timestampString = "583264824.239809"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatPrinterTestExample.ViewController.printer.modify : CatPrinterTestExample.CatPrinter with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CatPrinterTestExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christina/Desktop/my-repos/github/CatPrinterTest/CatPrinterTestExample/ViewController.swift"
+                  timestampString = "583264824.241592"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatPrinterTestExample.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CatPrinterTestExample.ViewController"
+                  moduleName = "CatPrinterTestExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christina/Desktop/my-repos/github/CatPrinterTest/CatPrinterTestExample/ViewController.swift"
+                  timestampString = "583264824.243867"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "143">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatPrinterTestExample.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CatPrinterTestExample.ViewController&gt;"
+                  moduleName = "CatPrinterTestExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christina/Desktop/my-repos/github/CatPrinterTest/CatPrinterTestExample/ViewController.swift"
+                  timestampString = "583264824.246267"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "81">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
