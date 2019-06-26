@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
     # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
     s.name         = "CatPrinterTest"
     s.module_name  = "CatPrinterTest"
-    s.version      = "0.0.1"
+    s.version      = "0.0.2"
     s.summary      = "Testing framework with pods"
     s.description  = <<-DESC
     Cat printer test with framework and coaco pods.
