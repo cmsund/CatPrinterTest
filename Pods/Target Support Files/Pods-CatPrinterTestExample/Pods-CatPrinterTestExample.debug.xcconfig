@@ -1,0 +1,12 @@
+ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES
+FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/Appboy-iOS-SDK" "${PODS_CONFIGURATION_BUILD_DIR}/CatPrinterTest" "${PODS_CONFIGURATION_BUILD_DIR}/SDWebImage" "${PODS_CONFIGURATION_BUILD_DIR}/tealium-swift" "${PODS_ROOT}/TealiumCrashReporter"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/Appboy-iOS-SDK/Appboy_iOS_SDK.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/CatPrinterTest/CatPrinterTest.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/SDWebImage/SDWebImage.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/tealium-swift/TealiumSwift.framework/Headers"
+LD_RUNPATH_SEARCH_PATHS = $(inherited) '@executable_path/Frameworks' '@loader_path/Frameworks'
+LIBRARY_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Appboy-iOS-SDK/AppboyKit"
+OTHER_LDFLAGS = $(inherited) -ObjC -l"z" -framework "Appboy_iOS_SDK" -framework "CatPrinterTest" -framework "CoreText" -framework "ImageIO" -framework "QuartzCore" -framework "SDWebImage" -framework "SystemConfiguration" -framework "TealiumCrashReporteriOS" -framework "TealiumSwift" -framework "WebKit" -weak_framework "Accounts" -weak_framework "AdSupport" -weak_framework "CoreTelephony" -weak_framework "Social" -weak_framework "UserNotifications"
+OTHER_SWIFT_FLAGS = $(inherited) -D COCOAPODS
+PODS_BUILD_DIR = ${BUILD_DIR}
+PODS_CONFIGURATION_BUILD_DIR = ${PODS_BUILD_DIR}/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_PODFILE_DIR_PATH = ${SRCROOT}/.
+PODS_ROOT = ${SRCROOT}/Pods

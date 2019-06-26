@@ -1,0 +1,6 @@
+framework module Pods_CatPrinterTestExample {
+  umbrella header "Pods-CatPrinterTestExample-umbrella.h"
+
+  export *
+  module * { export * }
+}

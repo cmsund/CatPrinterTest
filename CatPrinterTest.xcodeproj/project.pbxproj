@@ -44,6 +44,7 @@
 		CFEE9FE622C3F5DB006EC7E6 /* TealiumTagManagement.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = CF5BE2CD22C3F44400D522E2 /* TealiumTagManagement.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		CFEE9FE722C3F5DB006EC7E6 /* TealiumVolatileData.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = CF5BE2DA22C3F44400D522E2 /* TealiumVolatileData.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		CFEEA00722C41019006EC7E6 /* TealiumCrashReporteriOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFEEA00622C41019006EC7E6 /* TealiumCrashReporteriOS.framework */; };
+		CFEEA00822C41812006EC7E6 /* TealiumCrashReporteriOS.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = CFEEA00622C41019006EC7E6 /* TealiumCrashReporteriOS.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		CFF6B0F022C3E85B00C99BA6 /* CatPrinterTest.h in Headers */ = {isa = PBXBuildFile; fileRef = CFF6B0EE22C3E85B00C99BA6 /* CatPrinterTest.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CFF6B0F822C3E87500C99BA6 /* CatPrinter.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFF6B0F722C3E87500C99BA6 /* CatPrinter.swift */; };
 		CFF6B10022C3E8A700C99BA6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFF6B0FF22C3E8A700C99BA6 /* AppDelegate.swift */; };
@@ -71,6 +72,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
+				CFEEA00822C41812006EC7E6 /* TealiumCrashReporteriOS.framework in CopyFiles */,
 				CFEE9FD622C3F5DB006EC7E6 /* Appboy_iOS_SDK.framework in CopyFiles */,
 				CFEE9FD722C3F5DB006EC7E6 /* SDWebImage.framework in CopyFiles */,
 				CFEE9FD822C3F5DB006EC7E6 /* TealiumAppData.framework in CopyFiles */,
